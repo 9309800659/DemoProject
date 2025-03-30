@@ -10,6 +10,11 @@ public class Velocity3 {
 			System.out.println("Vishal");
 			System.out.println("Kundan");
 			System.out.println("Vishal");
+			System.out.println("Kundan");
+			System.out.println("Vishal");
+			System.out.println("Kundan");
+			System.out.println("Vishal");
+		
 		
 			
 			
