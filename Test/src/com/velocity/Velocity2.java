@@ -8,8 +8,7 @@ public class Velocity2 {
 			System.out.println(i);
 			System.out.println("Kundan");
 			System.out.println("Vishal");
-			System.out.println("Vishal");	
-			System.out.println("Vishal");
+		
 			
 			
 			
